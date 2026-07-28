@@ -1,30 +1,26 @@
-# Hi, I'm Gauri 👋
 
-## Financial Data Scientist | Data Analyst
+══════════════════════════════════════
 
-I'm passionate about solving financial and business problems using data.
+          GAURI SHAKYA
+ Financial Data Scientist | AI Engineer
 
-## Skills
+Python • SQL • Machine Learning • Power BI
+Finance • Deep Learning • Data Analytics
 
-- Python
-- SQL
-- Excel
-- Power BI
-- Machine Learning
-- Statistics
-- Data Visualization
+[GitHub Stats]
+[Top Languages]
+[Contribution Graph]
 
-## Current Focus
+Featured Projects
 
-📈 Financial Data Science
+🚀 AI Credit Risk Engine
+📊 Banking Analytics Dashboard
+💳 Fraud Detection System
+📈 Stock Market Prediction
+💼 Executive Finance Dashboard
+🤖 Financial AI Chatbot
 
-🤖 Machine Learning
-
-📊 Business Intelligence
-
-## Projects
-
-Coming soon...
+══════════════════════════════════════
 
 ## Connect
 
